@@ -37,7 +37,4 @@ future product demand, helping businesses optimize inventory management.
 
 **Target Variable:** `quantity` (units demanded per order)
 
-##  How to Run
-1. Open the notebook in Google Colab
-2. Upload the dataset CSV when prompted
-3. Run all cells in order
+
